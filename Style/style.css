@@ -222,19 +222,6 @@ span {
         margin-top: 4rem;
     }
 }
-copyright {
-    max-width: 1200px;
-    margin: auto;
-    padding: 0.5rem;
-    text-align: center;
-    font-size: 0.8rem;
-    color: red;
-    border-top: 1px solid black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #black;
-}
 
 /* KEYFRAMES */
 @keyframes cursor{
